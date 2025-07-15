@@ -81,4 +81,4 @@ Se busca:
 * Modelos de asignación en Investigación Operativa
 
 ## Autor 🧠
-[Francisco Henriquez](https://github.com/fcohenriquez) AND [Matias Henriquez](https://github.com/C5rsdMat1X5)
+[Francisco Henriquez](https://github.com/fcohenriquez) y [Matias Henriquez](https://github.com/C5rsdMat1X5)
